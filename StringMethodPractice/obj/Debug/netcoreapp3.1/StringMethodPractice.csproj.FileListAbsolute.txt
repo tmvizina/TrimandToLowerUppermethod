@@ -1,0 +1,13 @@
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\bin\Debug\netcoreapp3.1\StringMethodPractice.exe
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\bin\Debug\netcoreapp3.1\StringMethodPractice.deps.json
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\bin\Debug\netcoreapp3.1\StringMethodPractice.runtimeconfig.json
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\bin\Debug\netcoreapp3.1\StringMethodPractice.runtimeconfig.dev.json
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\bin\Debug\netcoreapp3.1\StringMethodPractice.dll
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\bin\Debug\netcoreapp3.1\StringMethodPractice.pdb
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.csprojAssemblyReference.cache
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.AssemblyInfoInputs.cache
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.AssemblyInfo.cs
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.dll
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.pdb
+C:\Users\tmviz\source\repos\StringMethodPractice\StringMethodPractice\obj\Debug\netcoreapp3.1\StringMethodPractice.genruntimeconfig.cache
